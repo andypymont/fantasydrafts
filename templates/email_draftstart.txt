@@ -1,0 +1,10 @@
+Hi {{ team.name }},
+
+The {{ draft.name }} fantasy draft has now begun! You pick at number {{ team.draftorder }} in this snaking draft.
+
+See the draft unfold, make your picks and contribute to the discussion using your personalised URL:
+
+{{ url_for('draft_overview', draftid=draft.id, u=team.key, _external=True ) }}
+
+Thanks & enjoy the draft!
+:-)

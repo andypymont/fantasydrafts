@@ -1,0 +1,10 @@
+Hi {{ team.name }},
+
+Your pick is coming up in the {{ draft.name }} fantasy draft. Pick {{ current_pick }} is currently being made and your next pick is pick number {{ current_pick + 1 }}.
+
+{% if conditional_pick_done %}You can still update your pick now; if you don't, your previously-entered preferences will be used to make your next pick as soon as pick {{ current_pick }} is made.{% else %}You can draft right now by specifying a set of 2 preferred players for your next pick.{% endif %} Make your pick now, and contribute to the discussion, using your personalised URL:
+
+{{ url_for('draft_overview', draftid=draft.id, u=team.key, _external=True ) }}
+
+Thanks & enjoy the draft!
+:-)

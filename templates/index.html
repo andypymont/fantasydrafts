@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>andypymont.co.uk</title>
+
+    <!-- Bootstrap -->
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="container">
+
+      <div class="page-header">
+        <p><h1>andypymont.co.uk</h1></p>
+      </div>
+
+      <div class="panel panel-default">
+        <div class="panel-heading">Fantasy Sports</div>
+        <div class="panel-body">
+          <p>Welcome to the home page for web applications I have developed for helping with <a href="http://en.wikipedia.org/wiki/Fantasy_sports">fantasy sport</a> games.</p>
+
+          <p>At the moment this means fantasy drafts: links to test and recent fantasy drafts are in the list below. <a href="mailto:andypymont@gmail.com">Email me</a> if you are interested in running a fantasy draft using this web interface.</p>
+          
+        </div>
+      </div>
+
+      <h4>Drafts:</h4>
+      <div class="list-group">
+      {% for draft in drafts %}
+        <a href="{{ url_for('draft_overview', draftid=draft.id) }}" class="list-group-item">{{ draft.name }}</a>
+      {% endfor %}
+      </div>
+
+    </div>
+
+    <div id="footer">
+      <div class="container">
+        <hr>
+        <p class="text-right">Copyright &copy;2014 Andy Pymont</p>
+      </div>
+    </div>
+
+    <script src="//cdn.jsdelivr.net/jquery/2.1.1/jquery.min.js"></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+  </body>
+</html>

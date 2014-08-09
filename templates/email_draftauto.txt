@@ -1,0 +1,12 @@
+Hi {{ team.name }},
+
+Your pick came up in the {{ draft.name }} fantasy draft and your previously-entered conditional picks were used to make your pick.
+
+Selected on your behalf was {{ pick_description }}
+
+See the other picks, make your future picks and contribute to the discussion using your personalised URL:
+
+{{ url_for('draft_overview', draftid=draft.id, u=team.key, _external=True ) }}
+
+Thanks & enjoy the draft!
+:-)

@@ -1,0 +1,10 @@
+Hi {{ team.name }},
+
+The {{ draft.name }} fantasy draft has finished!
+
+See the final draft table and engage in any post-draft discussion using your personalised URL:
+
+{{ url_for('draft_overview', draftid=draft.id, u=team.key, _external=True ) }}
+
+I hope you enjoyed the draft!
+:-)

@@ -1,0 +1,10 @@
+Hi {{ team.name }},
+
+You are ON THE CLOCK in the {{ draft.name }} fantasy draft.
+
+Make your pick now, and contribute to the discussion, using your personalised URL:
+
+{{ url_for('draft_overview', draftid=draft.id, u=team.key, _external=True ) }}
+
+Thanks & enjoy the draft!
+:-)

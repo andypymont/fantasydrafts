@@ -1,0 +1,10 @@
+<p>Hi {{ team.name }},</p>
+
+<p>You are <b>ON THE CLOCK</b> in the {{ draft.name }} fantasy draft.</p>
+
+<p>Make your pick now, and contribute to the discussion, using your personalised URL:</p>
+
+<a href="{{ url_for('draft_overview', draftid=draft.id, u=team.key, _external=True ) }}">{{ draft.name }} Draft Board</a>
+
+<p>Thanks &amp; enjoy the draft!<br>
+<h5>:-)</h5></p>

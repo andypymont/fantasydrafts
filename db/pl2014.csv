@@ -1,0 +1,458 @@
+firstname,surname,team,position,searchable_name
+David,Silva,Man City,M,david silva
+Eden,Hazard,Chelsea,M,eden hazard
+Robin,van Persie,Man Utd,F,robin van persie
+Wayne,Rooney,Man Utd,F,wayne rooney
+Vincent,Kompany,Man City,D,vincent kompany
+Mesut,Özil,Arsenal,M,mesut ozil
+Juan,Mata,Man Utd,M,juan mata
+Samir,Nasri,Man City,M,samir nasri
+Cesc,Fàbregas,Chelsea,M,cesc fabregas
+Sergio,Agüero,Man City,F,sergio aguero
+Diego,Costa,Chelsea,F,diego costa  
+Álvaro,Negredo,Man City,F,alvaro negredo
+Santi,Cazorla,Arsenal,M,santi cazorla
+Petr,Cech,Chelsea,G,petr cech
+Theo,Walcott,Arsenal,M,theo walcott
+Jack,Wilshere,Arsenal,M,jack wilshere
+Jesús,Navas,Man City,M,jesus navas
+Leighton,Baines,Everton,D,leighton baines
+Yaya,Touré,Man City,M,yaya toure
+Hugo,Lloris,Spurs,G,hugo lloris
+Christian,Eriksen,Spurs,M,christian eriksen
+David,De Gea,Man Utd,G,david de gea
+Daniel,Sturridge,Leics,F,daniel sturridge
+Ramires, ,Chelsea,M,ramires  
+Joe,Hart,Man City,G,joe hart
+Jan,Vertonghen,Spurs,D,jan vertonghen
+Olivier,Giroud,Arsenal,F,olivier giroud
+Hatem,Ben Arfa,N'castle,M,hatem ben arfa
+Edin,Dzeko,Man City,F,edin dzeko
+Roberto,Soldado,Spurs,F,roberto soldado
+Christian,Benteke,Villa,F,christian benteke
+Jonny,Evans,Man Utd,D,jonny evans
+Danny,Welbeck,Man Utd,F,danny welbeck
+Mousa,Dembélé,Spurs,M,mousa dembele
+Alexis,Sánchez,Arsenal,M,alexis sanchez
+Aaron,Ramsey,Arsenal,M,aaron ramsey
+Paulinho, ,Spurs,M,paulinho  
+Kevin,Mirallas,Everton,M,kevin mirallas
+Dani,Osvaldo,So'ton,F,dani osvaldo
+Lucas,Leiva,Leics,M,lucas leiva  
+Laurent,Koscielny,Arsenal,D,laurent koscielny
+Adnan,Januzaj,Man Utd,M,adnan januzaj
+Coutinho, ,Leics,M,coutinho  
+Sandro, ,Spurs,M,sandro  
+Shinji,Kagawa,Man Utd,M,shinji kagawa
+Thibaut,Courtois,Chelsea,G,thibaut courtois
+Aaron,Lennon,Spurs,M,aaron lennon
+Pablo,Zabaleta,Man City,D,pablo zabaleta
+Gary,Cahill,Chelsea,D,gary cahill
+Lukas,Podolski,Arsenal,F,lukas podolski
+Fernandinho, ,Man City,M,fernandinho  
+Nani, ,Man Utd,M,nani  
+Daniel,Agger,Leics,D,daniel agger
+Phil,Jones,Man Utd,D,phil jones
+Oscar, ,Chelsea,M,oscar  
+Alex,Oxlade-Chamberlain,Arsenal,M,alex oxlade-chamberlain
+Javier,Hernández,Man Utd,F,javier hernandez
+Stevan,Jovetic,Man City,F,stevan jovetic
+Rafael, ,Man Utd,D,rafael  
+Antonio,Valencia,Man Utd,M,antonio valencia
+Erik,Lamela,Spurs,M,erik lamela
+Romelu,Lukaku,Chelsea,F,romelu lukaku
+Per,Mertesacker,Arsenal,D,per mertesacker
+Glen,Johnson,Leics,D,glen johnson
+Kyle,Walker,Spurs,D,kyle walker
+Gaël,Clichy,Man City,D,gael clichy
+Thomas,Vermaelen,Arsenal,D,thomas vermaelen
+Marouane,Fellaini,Man Utd,M,marouane fellaini
+Ashley,Young,Man Utd,M,ashley young
+Fernando,Torres,Chelsea,F,fernando torres
+Loïc,Rémy,QPR,F,loic remy
+Chris,Smalling,Man Utd,D,chris smalling
+Younes,Kaboul,Spurs,D,younes kaboul
+José Manuel,Reina,Leics,G,jose manuel reina
+Jordan,Henderson,Leics,M,jordan henderson
+Willian, ,Chelsea,M,willian  
+Adam,Lallana,Leics,M,adam lallana
+James,Milner,Man City,M,james milner
+Lewis,Holtby,Spurs,M,lewis holtby
+Steven,Fletcher,S'land,F,steven fletcher
+Abou,Diaby,Arsenal,M,abou diaby
+César,Azpilicueta,Chelsea,D,cesar azpilicueta
+Andros,Townsend,Spurs,M,andros townsend
+Wilfried,Bony,Swansea,F,wilfried bony
+John Obi,Mikel,Chelsea,M,john obi mikel
+André,Schürrle,Chelsea,M,andre schurrle
+Emanuele,Giaccherini,S'land,M,emanuele giaccherini
+Ander,Herrera,Man Utd,M,ander herrera
+Morgan,Schneiderlin,So'ton,M,morgan schneiderlin
+Simon,Mignolet,Leics,G,simon mignolet
+Mame,Diouf,Stoke,F,mame diouf
+Seamus,Coleman,Everton,D,seamus coleman
+John,Terry,Chelsea,D,john terry
+Joe,Allen,Leics,M,joe allen
+Graziano,Pellè,So'ton,F,graziano pelle
+Branislav,Ivanovic,Chelsea,D,branislav ivanovic
+Bacary,Sagna,Man City,D,bacary sagna
+Martin,Skrtel,Leics,D,martin skrtel
+Marko,Arnautovic,Stoke,M,marko arnautovic
+Mathieu,Debuchy,Arsenal,D,mathieu debuchy
+Victor,Wanyama,So'ton,M,victor wanyama
+Etienne,Capoue,Spurs,M,etienne capoue
+Aleksandar,Kolarov,Man City,D,aleksandar kolarov
+Natxo,Monreal,Arsenal,D,natxo monreal
+Gastón,Ramírez,So'ton,M,gaston ramirez
+Gylfi,Sigurðsson,Spurs,M,gylfi sigurdsson
+Dejan,Lovren,So'ton,D,dejan lovren
+Youssouf,Mulumbu,WBA,M,youssouf mulumbu
+José,Enrique,Leics,D,jose enrique  
+Mamadou,Sakho,Leics,D,mamadou sakho
+Danny,Rose,Spurs,D,danny rose
+Nacer,Chadli,Spurs,M,nacer chadli
+Claudio,Yacob,WBA,M,claudio yacob
+James,McCarthy,Everton,M,james mccarthy
+Shane,Long,Hull,F,shane long
+Gabby,Agbonlahor,Villa,F,gabby agbonlahor
+Kieran,Gibbs,Arsenal,D,kieran gibbs
+Robert,Huth,Stoke,D,robert huth
+Aiden,McGeady,Everton,M,aiden mcgeady
+Cheick,Tioté,N'castle,M,cheick tiote
+Phil,Jagielka,Everton,D,phil jagielka
+Javi,García,Man City,M,javi garcia  
+Darren,Fletcher,Man Utd,M,darren fletcher
+Tim,Krul,N'castle,G,tim krul
+Andy,Carroll,West Ham,F,andy carroll
+Wojciech,Szczesny,Arsenal,G,wojciech szczesny
+James,Morrison,WBA,M,james morrison
+Emmanuel,Adebayor,Spurs,F,emmanuel adebayor
+Siem,de Jong,N'castle,M,siem de jong
+Yoan,Gouffran,N'castle,M,yoan gouffran
+Matt,Jarvis,West Ham,M,matt jarvis
+Papiss,Cissé,N'castle,F,papiss cisse
+Asmir,Begovic,Stoke,G,asmir begovic
+Nikica,Jelavic,Hull,F,nikica jelavic
+Pablo,Hernández,Swansea,M,pablo hernandez  
+Raheem,Sterling,Leics,M,raheem sterling
+Mikel,Arteta,Arsenal,M,mikel arteta
+Moussa,Sissoko,N'castle,M,moussa sissoko
+Ryan,Shawcross,Stoke,D,ryan shawcross
+Ross,Barkley,Everton,M,ross barkley
+Darron,Gibson,Everton,M,darron gibson
+Mohamed,Diamé,West Ham,M,mohamed diame
+Tom,Huddlestone,Hull,M,tom huddlestone
+Michael,Carrick,Man Utd,M,michael carrick
+Dusan,Tadic,So'ton,M,dusan tadic
+Mohamed,Salah,Chelsea,M,mohamed salah
+Mauro,Zárate,West Ham,F,mauro zarate
+Matija,Nastasic,Man City,D,matija nastasic
+Mapou,Yanga-Mbiwa,N'castle,D,mapou yanga-mbiwa
+Vurnon,Anita,N'castle,M,vurnon anita
+Jack,Rodwell,Man City,M,jack rodwell
+Jay,Rodriguez,So'ton,F,jay rodriguez
+Fabian,Delph,Villa,M,fabian delph
+Adam,Johnson,S'land,M,adam johnson
+Lazar,Markovic,Leics,M,lazar markovic
+Jake,Livermore,Hull,M,jake livermore
+Micah,Richards,Man City,D,micah richards
+Robert,Snodgrass,Hull,M,robert snodgrass
+Stewart,Downing,West Ham,M,stewart downing
+Ron,Vlaar,Villa,D,ron vlaar
+Steven,Naismith,Everton,F,steven naismith
+Esteban,Granero,QPR,M,esteban granero
+Vlad,Chiriches,Spurs,D,vlad chiriches
+Oriol,Romeu,Chelsea,M,oriol romeu
+Marco,van Ginkel,Chelsea,M,marco van ginkel
+Ben,Foster,WBA,G,ben foster
+Davide,Santon,N'castle,D,davide santon
+Sone,Aluko,Hull,M,sone aluko
+Ashley,Williams,Swansea,D,ashley williams
+Mark,Noble,West Ham,M,mark noble
+Steven,N'Zonzi,Stoke,M,steven n'zonzi
+Ravel,Morrison,West Ham,M,ravel morrison
+Lee,Cattermole,S'land,M,lee cattermole
+Luke,Shaw,Man Utd,D,luke shaw
+Martin,Kelly,Leics,D,martin kelly
+Stéphane,Sessegnon,WBA,M,stephane sessegnon
+Michael,Kightly,Burnley,M,michael kightly
+Michael,Dawson,Spurs,D,michael dawson
+Steven,Taylor,N'castle,D,steven taylor
+Scott,Dann,Palace,D,scott dann
+Jordi,Amat,Swansea,D,jordi amat
+Bafétimbi,Gomis,Swansea,F,bafetimbi gomis
+Liam,Bridcutt,S'land,M,liam bridcutt
+Jores,Okore,Villa,D,jores okore
+Michel,Vorm,Swansea,G,michel vorm
+Modibo,Diakité,S'land,D,modibo diakite
+Oussama,Assaidi,Leics,M,oussama assaidi
+Emre,Can,Leics,M,emre can
+Robbie,Brady,Hull,M,robbie brady
+Tom,Ince,Hull,M,tom ince
+Ahmed,Elmohamady,Hull,M,ahmed elmohamady
+Nathaniel,Clyne,So'ton,D,nathaniel clyne
+Jack,Cork,So'ton,M,jack cork
+Ashley,Westwood,Villa,M,ashley westwood
+Steven,Davis,So'ton,M,steven davis
+Graham,Dorrans,WBA,M,graham dorrans
+Chico, ,Swansea,D,chico  
+James,Ward-Prowse,So'ton,M,james ward-prowse
+Neil,Taylor,Swansea,D,neil taylor
+Jonas,Olsson,WBA,D,jonas olsson
+Charlie,Adam,Stoke,M,charlie adam
+Adel,Taarabt,QPR,M,adel taarabt
+Charlie,Austin,QPR,F,charlie austin
+Wayne,Routledge,Swansea,M,wayne routledge
+Curtis,Davies,Hull,D,curtis davies
+Matt,Phillips,QPR,M,matt phillips
+Brad,Guzan,Villa,G,brad guzan
+Geoff,Cameron,Stoke,D,geoff cameron
+José,Cañas,Swansea,M,jose canas
+Winston,Reid,West Ham,D,winston reid
+Danny,Graham,S'land,F,danny graham
+Patrice,Evra,Man Utd,D,patrice evra
+Chris,Brunt,WBA,M,chris brunt
+Sebastian,Larsson,S'land,M,sebastian larsson
+Libor,Kozák,Villa,F,libor kozak
+Rémy,Cabella,N'castle,M,remy cabella
+Rickie,Lambert,Leics,F,rickie lambert
+Junior,Hoilett,QPR,M,junior hoilett
+Yannick,Sagbo,Hull,F,yannick sagbo
+Victor,Anichebe,WBA,F,victor anichebe
+Connor,Wickham,S'land,F,connor wickham
+Mile,Jedinak,Palace,M,mile jedinak
+Kyle,Naughton,Spurs,D,kyle naughton
+Anthony,Knockaert,L'pool,M,anthony knockaert
+Stephen,Ireland,Stoke,M,stephen ireland
+David,Meyler,Hull,M,david meyler
+Joe,Ledley,Palace,M,joe ledley
+Arouna,Koné,Everton,F,arouna kone
+Billy,Jones,S'land,D,billy jones
+Joleon,Lescott,WBA,D,joleon lescott
+Nedum,Onuoha,QPR,D,nedum onuoha
+Leandro,Bacuna,Villa,M,leandro bacuna
+Jason,Puncheon,Palace,M,jason puncheon
+James,Chester,Hull,D,james chester
+Darren,Bent,Villa,F,darren bent
+Victor,Moses,Chelsea,M,victor moses
+Nathaniel,Chalobah,Chelsea,D,nathaniel chalobah
+Carl,Jenkinson,Arsenal,D,carl jenkinson
+Danny,Simpson,QPR,D,danny simpson
+Alfred,N'Diaye,S'land,M,alfred n'diaye
+Saido,Berahino,WBA,F,saido berahino
+Jimmy,Kébé,Palace,M,jimmy kebe
+Ricardo,Vaz Tê,West Ham,F,ricardo vaz te
+Dwight,Gayle,Palace,F,dwight gayle
+Willy,Caballero,Man City,G,willy caballero
+Gabriel,Obertan,N'castle,M,gabriel obertan
+Aaron,Cresswell,West Ham,D,aaron cresswell
+Marouane,Chamakh,Palace,F,marouane chamakh
+Matty,James,L'pool,M,matty james
+Danny,Ings,Burnley,F,danny ings
+Benoît,Assou-Ekotto,Spurs,D,benoit assou-ekotto
+Jack,Colback,N'castle,M,jack colback
+Erik,Pieters,Stoke,D,erik pieters
+James,Tomkins,West Ham,D,james tomkins
+Danny,Drinkwater,L'pool,M,danny drinkwater
+Kieran,Trippier,Burnley,D,kieran trippier
+Bryan,Oviedo,Everton,D,bryan oviedo
+Sung-Yeung,Ki,Swansea,M,sung-yeung ki
+Fabricio,Coloccini,N'castle,D,fabricio coloccini
+Alejandro,Faurlin,QPR,M,alejandro faurlin
+Anders,Lindegaard,Man Utd,G,anders lindegaard
+Nathan,Dyer,Swansea,M,nathan dyer
+Ciaran,Clark,Villa,D,ciaran clark
+Fabio,Borini,Leics,F,fabio borini
+Steven,Pienaar,Everton,M,steven pienaar
+José,Campaña,Palace,M,jose campana
+David,Nugent,L'pool,F,david nugent
+Emmanuel,Mayuka,So'ton,M,emmanuel mayuka
+Joey,O'Brien,West Ham,D,joey o'brien
+Adrian,Mariappa,Palace,D,adrian mariappa
+Craig,Gardner,WBA,D,craig gardner
+Matt,Lowton,Villa,D,matt lowton
+Sébastien,Pocognoli,WBA,D,sebastien pocognoli
+Ben,Davies,Swansea,D,ben davies
+Philippe,Senderos,Villa,D,philippe senderos
+Kieran,Richardson,Villa,M,kieran richardson
+Jamie,Vardy,L'pool,F,jamie vardy
+Billy,Sharp,So'ton,F,billy sharp
+Scott,Sinclair,Man City,M,scott sinclair
+Marc,Wilson,Stoke,D,marc wilson
+Karim,El Ahmadi,Villa,M,karim el ahmadi
+Jack,Hunt,Palace,D,jack hunt
+Jon,Williams,Palace,M,jon williams
+Cabral, ,S'land,M,cabral  
+Jonjo,Shelvey,Swansea,M,jonjo shelvey
+Charles,N'Zogbia,Villa,M,charles n'zogbia
+Modibo,Maïga,West Ham,F,modibo maiga
+Allan,McGregor,Hull,G,allan mcgregor
+Cheikhou,Kouyaté,West Ham,D,cheikhou kouyate
+Wayne,Hennessey,Palace,G,wayne hennessey
+Lukasz,Fabianski,Swansea,G,lukasz fabianski
+Josh,McEachran,Chelsea,M,josh mceachran
+Harry,Kane,Spurs,F,harry kane
+Andy,King,L'pool,M,andy king
+Craig,Dawson,WBA,D,craig dawson
+Jack,Butland,Stoke,G,jack butland
+Leon,Britton,Swansea,M,leon britton
+Andy,Wilkinson,Stoke,D,andy wilkinson
+Adrián, ,West Ham,G,adrian  
+Marc,Muniesa,Stoke,D,marc muniesa
+Kasper,Schmeichel,L'pool,G,kasper schmeichel
+Valentin,Roberge,S'land,D,valentin roberge
+Chris,Wood,L'pool,F,chris wood
+Marc,Albrighton,L'pool,M,marc albrighton
+Phil,Bardsley,Stoke,D,phil bardsley
+Jonás,Gutiérrez,N'castle,M,jonas gutierrez
+Andi,Weimann,Villa,F,andi weimann
+Ryan,Bertrand,Chelsea,D,ryan bertrand
+Yannick,Bolasie,Palace,M,yannick bolasie
+Joel, ,Everton,G,joel  
+Maya,Yoshida,So'ton,D,maya yoshida
+Antonio,Luna,Villa,D,antonio luna
+Paul,McShane,Hull,D,paul mcshane
+Jonathan,Walters,Stoke,M,jonathan walters
+Glenn,Murray,Palace,F,glenn murray
+John,Stones,Everton,D,john stones
+Stephen,Quinn,Hull,M,stephen quinn
+Ayoze,Pérez,N'castle,F,ayoze perez  
+Alejandro,Pozuelo,Swansea,M,alejandro pozuelo
+Brek,Shea,Stoke,M,brek shea
+James,Collins,West Ham,D,james collins
+Ryan,Taylor,N'castle,D,ryan taylor
+Maynor,Figueroa,Hull,D,maynor figueroa
+Ryan,Shotton,Stoke,D,ryan shotton
+Ritchie,De Laet,L'pool,D,ritchie de laet
+Wes,Morgan,L'pool,D,wes morgan
+Thomas,Carroll,Spurs,M,thomas carroll
+Carlton,Cole,West Ham,F,carlton cole
+Steven,Gerrard,Leics,M,steven gerrard
+Armand,Traoré,QPR,M,armand traore
+Liam,Moore,L'pool,D,liam moore
+Vito,Mannone,S'land,G,vito mannone
+Santiago,Vergini,S'land,D,santiago vergini
+Mike,Williamson,N'castle,D,mike williamson
+Costel,Pantilimon,S'land,G,costel pantilimon
+Joel,Ward,Palace,M,joel ward
+Ashley,Barnes,Burnley,M,ashley barnes
+Charis,Mavrias,S'land,M,charis mavrias
+David,Jones,Burnley,M,david jones
+Wilson,Palacios,Stoke,M,wilson palacios
+Jordi,Gómez,S'land,M,jordi gomez  
+Ángel,Rangel,Swansea,D,angel rangel
+Marvin,Sordell,Burnley,F,marvin sordell
+Steve,Sidwell,Stoke,M,steve sidwell
+Sammy,Ameobi,N'castle,M,sammy ameobi
+Samba,Diakité,QPR,M,samba diakite
+Liam,Rosenior,Hull,D,liam rosenior
+Jerome,Thomas,Palace,M,jerome thomas
+Adlène,Guédioura,Palace,M,adlene guedioura
+Marvin,Emnes,Swansea,F,marvin emnes
+Nick,Proschwitz,Hull,F,nick proschwitz
+Lukas,Jutkiewicz,Burnley,F,lukas jutkiewicz
+John,Guidetti,Man City,F,john guidetti
+Joey,Barton,QPR,M,joey barton
+Dean,Marney,Burnley,M,dean marney
+José,Fonte,So'ton,D,jose fonte  
+Sam,Vokes,Burnley,F,sam vokes
+Jason,Shackell,Burnley,D,jason shackell
+Barry,Bannan,Palace,M,barry bannan
+Jeffrey,Schlupp,L'pool,D,jeffrey schlupp
+Kenneth,Omeruo,Chelsea,D,kenneth omeruo
+Kevin,Nolan,West Ham,M,kevin nolan
+Callum,Chambers,So'ton,D,callum chambers
+Rob,Elliot,N'castle,G,rob elliot
+George,Thorne,WBA,M,george thorne
+Jack,Grealish,Villa,M,jack grealish
+Boaz,Myhill,WBA,G,boaz myhill
+Kyle,Bartley,Swansea,D,kyle bartley
+Antolín,Alcaraz,Everton,D,antolin alcaraz
+Chris,Herd,Villa,D,chris herd
+Gary,O'Neil,QPR,M,gary o'neil
+Ross,Wallace,Burnley,M,ross wallace
+Yoon,Seok-Young,QPR,D,yoon seok-young  
+Ben,Mee,Burnley,D,ben mee
+Joe,Dudgeon,Hull,D,joe dudgeon
+Alex,Bruce,Hull,D,alex bruce
+Dean,Hammond,L'pool,M,dean hammond
+Artur,Boruc,So'ton,G,artur boruc
+Karl,Henry,QPR,M,karl henry
+Matt,Gilks,Burnley,G,matt gilks
+Jos,Hooiveld,So'ton,D,jos hooiveld
+Leon,Osman,Everton,M,leon osman
+Ashley,Richards,Swansea,D,ashley richards
+Kurt,Zouma,Chelsea,D,kurt zouma
+Tomas,Rosicky,Arsenal,M,tomas rosicky
+Jermaine,Jenas,QPR,M,jermaine jenas
+Gareth,Barry,Everton,M,gareth barry
+Haris,Vuckic,N'castle,M,haris vuckic
+Alan,Hutton,Villa,D,alan hutton
+Matty,Taylor,Burnley,D,matty taylor
+Chris,Baird,WBA,D,chris baird
+Joe,Cole,Villa,M,joe cole
+Brad,Jones,Leics,G,brad jones
+John,O'Shea,S'land,D,john o'shea
+Martín,Demichelis,Man City,D,martin demichelis
+Tim,Howard,Everton,G,tim howard
+Jack,Robinson,Leics,D,jack robinson
+Stuart,O'Keefe,Palace,M,stuart o'keefe
+Robert,Green,QPR,G,robert green
+Peter,Odemwingie,Stoke,M,peter odemwingie
+Patrick,van Aanholt,Chelsea,D,patrick van aanholt
+Ben,Amos,Man Utd,G,ben amos
+Yaya,Sanogo,Arsenal,F,yaya sanogo
+Gary,Gardner,Villa,M,gary gardner
+Tom,Heaton,Burnley,G,tom heaton
+Stephen,Henderson,West Ham,G,stephen henderson
+Conor,McAleny,Everton,F,conor mcaleny
+Scott,Arfield,Burnley,M,scott arfield
+Ben,Hamer,L'pool,G,ben hamer
+Sylvain,Distin,Everton,D,sylvain distin
+Kolo,Touré,Leics,D,kolo toure
+Peter,Ramage,Palace,D,peter ramage
+Danny,Lafferty,Burnley,D,danny lafferty
+Damien,Delaney,Palace,D,damien delaney
+Guy,Demel,West Ham,D,guy demel
+Zoumana,Bakayogo,L'pool,D,zoumana bakayogo
+Steven,Reid,Burnley,D,steven reid
+Shaun,Wright-Phillips,QPR,M,shaun wright-phillips
+Tony,Hibbert,Everton,D,tony hibbert
+Peter,Crouch,Stoke,F,peter crouch
+Stephen,Dobbie,Palace,F,stephen dobbie
+Wes,Brown,S'land,D,wes brown
+Julián,Speroni,Palace,G,julian speroni
+Gareth,McAuley,WBA,D,gareth mcauley
+Joseph,Mills,Burnley,D,joseph mills
+Damián,Martínez,Arsenal,G,damian martinez
+Gary,Taylor-Fletcher,L'pool,M,gary taylor-fletcher
+Brad,Friedel,Spurs,G,brad friedel
+Paulo,Gazzaniga,So'ton,G,paulo gazzaniga
+Eldin,Jakupovic,Hull,G,eldin jakupovic
+Richard,Dunne,QPR,D,richard dunne
+Abdul,Razak,West Ham,M,abdul razak
+Paul,Konchesky,L'pool,D,paul konchesky
+Kevin,Long,Burnley,D,kevin long
+Matthew,Upson,L'pool,D,matthew upson
+Jed,Steer,Villa,G,jed steer
+Clint,Hill,QPR,D,clint hill
+Brian,Murphy,QPR,G,brian murphy
+Shay,Given,Villa,G,shay given
+Dionatan,Teixeira,Stoke,D,dionatan teixeira  
+Jussi,Jääskeläinen,West Ham,G,jussi jaaskelainen
+Thomas,Sørensen,Stoke,G,thomas sorensen
+Mark,Schwarzer,Chelsea,G,mark schwarzer
+John,Lundstram,Everton,M,john lundstram
+Marcin,Wasilewski,L'pool,D,marcin wasilewski
+Jak,Alnwick,N'castle,G,jak alnwick
+Luke,Daniels,WBA,G,luke daniels
+Steve,Harper,Hull,G,steve harper
+Gerhard,Tremmel,Swansea,G,gerhard tremmel
+Kelvin,Davis,So'ton,G,kelvin davis
+Jordan,Archer,Spurs,G,jordan archer
+Bobby,Zamora,QPR,F,bobby zamora
+Lewis,Price,Palace,G,lewis price
+Conrad,Logan,L'pool,G,conrad logan
+Alex,Cisak,Burnley,G,alex cisak
+Riyad,Mahrez,L'pool,M,riyad mahrez
+Michael,Duff,Burnley,D,michael duff
