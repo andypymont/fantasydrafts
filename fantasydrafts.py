@@ -1,20 +1,9 @@
 import os
 
 from emails import email
-from flask import Flask, abort, g, jsonify, redirect, render_template, request, url_for
-from datamodel import database, pick_owner
-
-app = Flask(__name__)
-app.config.update(dict(
-	DATABASE=os.path.join(app.root_path, 'db', 'fantasydrafts.db'),
-	MAIL_SERVER='smtp.gmail.com',
-	MAIL_PORT=465,
-	MAIL_USE_SSL=True,
-	MAIL_USERNAME='gmail_username',
-	MAIL_PASSWORD='password',
-))
-db = database(app, g)
-email = email(app)
+from flask import abort, g, jsonify, redirect, render_template, request, url_for
+from datamodel import db, pick_owner
+from app import app
 
 @app.template_filter('chatdate')
 def filter_chatdate(value):
