@@ -81,7 +81,7 @@
         {% for chat in chatlines %}
             <tr{% if chat['sender'] == "" %} class="info"{% endif %}>
                 <td>{{ chat.tstamp|chatdate|safe }}</td>
-                <td>{{ chat.sender }}</td>
+                <td>{{ chat.sender|chatname|safe }}</td>
                 <td>{{ chat.message }}</td>
             </tr>
         {% endfor %}

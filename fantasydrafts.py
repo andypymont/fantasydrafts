@@ -5,6 +5,10 @@ from flask import abort, g, jsonify, redirect, render_template, request, url_for
 from datamodel import db, pick_owner
 from app import app
 
+@app.template.filter('chatname')
+def filter_chatname(name):
+	return name.replace(' ', '&nbsp;')
+
 @app.template_filter('chatdate')
 def filter_chatdate(value):
 	return value.strftime('%d/%m/%Y&nbsp;%H:%M')
