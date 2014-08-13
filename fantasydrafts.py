@@ -5,7 +5,7 @@ from flask import abort, g, jsonify, redirect, render_template, request, url_for
 from datamodel import db, pick_owner
 from app import app
 
-@app.template.filter('chatname')
+@app.template_filter('chatname')
 def filter_chatname(name):
 	return name.replace(' ', '&nbsp;')
 
