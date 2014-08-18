@@ -45,12 +45,7 @@ def filter_pickbutton_contents(value):
 		else:
 			return '&nbsp;<br>%s<br><small>&nbsp;</small>' % symbols[status]
 
-@app.route('/')
-def index():
-	latest_drafts = db.get_latest_drafts()
-	return render_template('index.html', drafts=latest_drafts)
-
-@app.route('/drafts/<draftid>/')
+@app.route('/<draftid>/')
 def draft_overview(draftid):
 	try:
 		userteam = db.get_teams(draftid, request.args.get('u', ''))[0]
@@ -66,7 +61,7 @@ def draft_overview(draftid):
 										    teams=draft['teams'], rounds=draft['table'], show_rounds=draft['show_rounds'],
 										    userteam=userteam, pick_modals=draft['pick_modals'], chatfilter=chatfilter)
 
-@app.route('/drafts/<draftid>/chat/', methods=['POST'])
+@app.route('/<draftid>/chat/', methods=['POST'])
 def submit_chat(draftid):
 	try:
 		userteam = db.get_teams(draftid, request.args.get('u', ''))[0]
@@ -78,7 +73,7 @@ def submit_chat(draftid):
 
 	return redirect(url_for('draft_overview', draftid=draftid, u=request.args.get('u', '')))
 
-@app.route('/drafts/<draftid>/pick/<int:pickno>', methods=['POST'])
+@app.route('/<draftid>/pick/<int:pickno>', methods=['POST'])
 def submit_pick(draftid, pickno):
 	key = request.args.get('u', '')
 	if db.check_conditional_pick_owner(draftid, pickno, key):
@@ -104,7 +99,7 @@ def submit_pick(draftid, pickno):
 
 	return redirect(url_for('draft_overview', draftid=draftid, u=request.args.get('u', '')))
 
-@app.route('/drafts/<draftid>/json/players/remaining')
+@app.route('/<draftid>/json/players/remaining')
 def json_remaining_players(draftid):
 	query = request.args.get('q', '')
 	remaining_players = db.get_players(draftid=draftid, unpicked_only=True, query=query)[:10]
@@ -113,7 +108,7 @@ def json_remaining_players(draftid):
 								for player in remaining_players]
 		})
 
-@app.route('/drafts/<draftid>/json/players/')
+@app.route('/<draftid>/json/players/')
 def json_player(draftid):
 	playerid = request.args.get('id', 0)
 	players = db.get_player_from_id(draftid, playerid)
