@@ -11,10 +11,6 @@ try:
 except ImportError:
 	pass
 
-def get_latest_drafts():
-	return [dict(name=draft['name'], url=url_for('draft_overview', draftid=draft['id']))
-			for draft in fantasydrafts.db.get_latest_drafts()]]
-
 @app.template_filter('chatname')
 def filter_chatname(name):
 	return name.replace(' ', '&nbsp;')
