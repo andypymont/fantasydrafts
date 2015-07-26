@@ -12,7 +12,7 @@ def async(f):
 @async
 def send_async_email(app, mail, msg):
 	with app.app_context():
-		mail.send(msg)
+	    mail.send(msg)
 
 class Email(object):
 

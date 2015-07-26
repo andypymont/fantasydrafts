@@ -1,6 +1,3 @@
-import os
-
-from emails import email
 from flask import abort, g, jsonify, redirect, render_template, request, url_for
 from datamodel import db, pick_owner
 from app import app
@@ -10,6 +7,8 @@ try:
 	app.config.update(settings)
 except ImportError:
 	pass
+
+from emails import email
 
 @app.template_filter('chatname')
 def filter_chatname(name):

@@ -3,7 +3,7 @@
 import datetime, json, os
 
 from flask.ext.script import Manager
-from fantasydrafts import app, db, update_draft
+from __init__ import app, db, update_draft
 
 manager = Manager(app)
 
@@ -40,10 +40,22 @@ def conditionalpicklengths(draftid):
 @manager.command
 def pldraft():
     "Create the Premier League draft"
-    with app.open_resource(os.path.join('db', 'pl.json'), mode='r') as f:
-        teams = json.loads(f.read())
+    teams = [
+            dict(name='Matt', email='wowcrisps@gmail.com'),
+            dict(name='Ben', email='benlarah@gmail.com'),
+            dict(name='Dave', email='amusedparrot@gmail.com'),
+            dict(name='Tim', email='timpymont@hotmail.com'),
+            dict(name='Ahmet', email='ahmet.feridun@ffandp.com'),
+            dict(name='Nick', email='darkknight24@hotmail.co.uk'),
+            dict(name='Andy', email='andypymont@gmail.com'),
+            dict(name='JJ', email='jonathan.hazlehurst@googlemail.com'),
+            dict(name='Laura', email='laurapymont@ymail.com'),
+            dict(name='Will', email='william.c.smith@hotmail.co.uk'),
+            dict(name='Hakan', email='hakan2010@live.com'),
+            dict(name='DaneMark', email='markgray84@gmail.com')
+        ]
 
-    newpldraft('Fantasy Premier League 2014/15', teams, 15, 2014)
+    newpldraft('Fantasy Premier League 2015/16', teams, 15, 2015)
 
 @manager.command
 def nfldraft():
