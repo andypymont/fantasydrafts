@@ -20,7 +20,7 @@ class Email(object):
 		self.mail = Mail(app)
 
 	def send_email(self, subject, recipient, text_body, html_body):
-		msg = Message(subject, sender='fantasyfooty@andypymont.co.uk', recipients=[recipient])
+		msg = Message(subject, sender='fantasyfooty@andypymont.co.uk', recipients=recipient.split(";"))
 		msg.body = text_body
 		msg.html = html_body
 		send_async_email(app, self.mail, msg)
