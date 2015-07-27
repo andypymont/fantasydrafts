@@ -19,6 +19,7 @@ $(document).ready(function(){
 		var pickno = $(this).attr("name").split("draftpick")[0].replace("pick", "");
 
 		$(this).select2({
+			allowClear: true,
 			placeholder: "Select a player",
 			ajax: {
 				url: JSON_PATH_REMAININGPLAYERS,
